@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=TOP.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=IEPE1|SchDesignator=IEPE1|FileName=IEPE.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=IEPE.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=POWER|SchDesignator=POWER|FileName=IEPE_POWER.SchDoc|SheetNumber=7|SymbolType=Normal|RawFileName=IEPE_POWER.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

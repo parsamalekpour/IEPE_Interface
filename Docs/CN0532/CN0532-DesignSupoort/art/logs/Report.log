@@ -1,0 +1,35 @@
+ 
+	##################################
+	Design : 08_051837b.brd
+	Board Revision : B
+	Date : Mar 15 19:58:20 2019
+	##################################
+
+	- W - fab1 created with warnings
+	- I - assy1 created.
+	- I - l1_primary created.
+	- I - l2_secondary created.
+	- I - silk_prm created.
+	- I - mask_prm created.
+	- I - silk_sec created.
+	- I - mask_sec created.
+	- I - paste_prm created.
+	
+	- W - ARTWORK had warnings
+	- I - If any artwork was created with warnings, you MUST check these warning in the photoplot.log
+
+	- I - 08_051837b.brd copied to C:/tmp/mkart_backup.brd
+	- I - Drill File ncdrill-1-2.drl created
+	 
+	- I - Undefined 0 Linewidth  OK
+	- I - 09-051837-01-b.pdf Successfully Generated (Fab)!
+	- I - 01-051837-01-b.pdf Successfully Generated (Assy)!
+	- I - schematic pdf Successfully Generated!
+	 
+	- I - DRC State: UP TO DATE
+	- I - DRC Errors: 0
+	- I - Short DRC: 0
+	- I - Waived DRC: 0
+	- I - Connection Completion: W/Rats(100.00%) No/Rats(0.00%) Total(100.00%)
+	- I - Components: Placed(26) Unplaced(0) Total(26)
+	

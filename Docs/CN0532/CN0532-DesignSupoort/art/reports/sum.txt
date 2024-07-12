@@ -1,0 +1,69 @@
+Summary Drawing Report
+C:/tmp/20_051837b/worklib/02_051837b_top/physical/08_051837b.brd
+Fri Mar 15 19:56:14 2019
+
+Drawing Statistics:
+    Drawing Extents  XL(-14618.00)  YL(-10561.00)  XU(21382.00)  YU(13439.00)
+    Dimensions in mils with 2 decimal places
+    Layers:  Total(2)  Routing(2)  Planes(0)
+    Design Thickness: 13.600000 mil
+    Package Symbols:  Total(26)  Mirrored(0)  Embedded(0)  Pins(85)
+    Mechanical Symbols:  Total(7)  Mirrored(3)  Pins(0)
+    Format Symbols:  Total(8)
+    DRC State: UP TO DATE
+    DRC Errors: 0
+    Short DRC: 0
+    Waived DRC: 0
+    Padstack Definitions: 29
+    Dynamic shapes:  Total(4)  Out_of_date(0)
+    Functions:   Assigned(26)  Unassigned(0)  Total(26)
+    Poly Via (pVia) Sites:  0
+
+Drilling Statistics:
+    Minimum Drill Size (in):  0.012000
+    Drills:  Total(26)  Standard NC(26)  Nonstandard(0)
+    Holes:  Plated(26)  Non-Plated(0)
+    MultiDrill Padstacks:  0
+    Vias:  Thru(26)  BBVias(0)  HDI(0)
+
+Connection Statistics:
+    Connections:  W/Rats(48)  No/Rats(0)  Total(48)
+    Already Connected:  W/Rats(48)  No/Rats(0)  Total(48)
+    Missing Connections: W/Rats(0)  No/Rats(0)  Total(0)
+    Dangling Connections (See logfile):  0
+    Connection Completion:  W/Rats(100.00%)  No/Rats(0.00%)  Total(100.00%)  
+    Manh Distance (inches):  3.88
+    Trace Length (inches):  W/Rats(4.93)  No/Rats(0.00)  Total(4.93)
+    Number of Vias:  W/Rats(26)  No/Rats(0)  Total(26)
+    Vias per Connection:  W/Rats(0.54)  No/Rats(0.00)Total(0.54)
+    SMD pins with attached clines:  61
+
+Layout Statistics:
+    Components:  Placed(26)  Unplaced(0)  Total(26)
+    Component Classes:  IC(4)  IO(3)  Discrete(19)  Mechanical(0)  Other(0)
+    Nets: W/Rats(14)  No/Rats(0)  Total(14)
+    Pins: W/Rats(62)  No/Rats(0)  Unused(23)  Unplaced(0)  Total(85)
+    Equivalent ICs (1 pin = 1/14 EIC):  6
+    RatTs:  0
+    Router Keepin (in):   (-0.0900,-0.0900) by (0.6700,0.6700)
+    Layout area (sq in):  0.58
+    Average ratlength (in):   0.1
+    Rat density (in/sq in):  6.728
+    Double-sided rat density (in/sq in):  3.364
+
+Layout/Pin Density Statistics
+Layer,Layout Area<BR>(sq in),Components,Pins,Layout Density<BR>(sq in/EIC),Pin Density<BR>(pins/sq in)
+External(Double-Sided),1.15,26,85,0.190,73.625
+Embedded(0),0.00,0,0,0.000,0.000
+Design,0.58,26,85,0.095,147.251
+
+Trace Layer Statistics:
+Layer,Clines/Carcs,Shapes(voids),Rectangles,Lines/Arcs,Text,Components(Pins)
+TOP,61,6(0),0,0,0,26(85)
+BOTTOM,2,1(2),0,0,0,0(0)
+
+Trace Width By Layer:
+Layer,Widths (mils)
+TOP,8.00 10.00 15.00 20.00 
+BOTTOM,10.00 
+

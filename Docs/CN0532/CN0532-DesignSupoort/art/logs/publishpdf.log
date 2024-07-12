@@ -1,0 +1,13 @@
+
+  Publish PDF
+  -------------
+
+  - I - Looking in C:\tmp\20_051837b\worklib\02_051837b_top\physical\..\..\.. for .cpm file
+  - I - Found 20_051837b.cpm in C:\tmp\20_051837b\worklib\02_051837b_top\physical\..\..\..
+  - I - Looking in C:\tmp\20_051837b\worklib\02_051837b_top\physical\..\variant for variant files
+  - I - Sch_No: 02_051837
+  - I - Sch_Rev: b
+  - I - Ran PublishPDF command:
+        publishpdf -product Concept_HDL_Studio -proj C:\tmp\20_051837b\worklib\02_051837b_top\physical\..\..\..\20_051837b.cpm -mode occedit -all -file C:\tmp\20_051837b\worklib\02_051837b_top\physical\art\online\02-051837-01-b.pdf
+  - I - No Variants exist, no Variant PDF's generated
+  - I - Done running the script
